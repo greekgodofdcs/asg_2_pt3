@@ -1,0 +1,19 @@
+NAME : Lathidadiya Kevinkumar Bhaveshbhai
+Roll No : 134
+Assignment : 01
+-------------------------------------------------------------------
+
+Q. Write a Node.js program to do the following:
+	* Create Directory ( Hint: fs.mkdir )
+	* Remove Directory ( Hint: fs.rmdir )
+	* Write File 
+	* Read File 
+	* Delete File
+	* Append data to file
+	* Update / Replace file with new data
+	* Rename File
+
+1. URL
+
+https://github.com/kevinkumar2020/File_System_Module
+
